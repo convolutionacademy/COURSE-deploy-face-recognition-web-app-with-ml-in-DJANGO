@@ -1,7 +1,7 @@
 # Deploy Face Recognition Web App with ML in Django
 
 *Develop & Deploy Face Recognition, Facial Emotion using OpenCV, Machine Learning, Django & Database in Python in Heroku*
-##### COURSE URL: Complete course is on Udemy [click here](https://www.udemy.com/course/complete-face-recognition-app-machine-learning-django-heroku/?referralCode=976F3A2A4E1DFA345667) to go to course.
+### COURSE URL: Complete course is on Udemy [click here](https://www.udemy.com/course/complete-face-recognition-app-machine-learning-django-heroku/?referralCode=976F3A2A4E1DFA345667) to go to course.
 
 Welcome to the Course Deploy Face Recognition Web App, Machine Learning, Django & Database in Heroku Cloud !!!.
 
