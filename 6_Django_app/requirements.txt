@@ -1,0 +1,6 @@
+Django
+numpy
+opencv-python-headless
+scikit-learn
+scipy
+sklearn
