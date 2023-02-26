@@ -1,1 +1,2 @@
-# COURSE-deploy-face-recognition-web-app-with-ml-in-DJANGO
+# Deploy Face Recognition Web App with ML in Django
+---
